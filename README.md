@@ -64,8 +64,9 @@ The home screen provides an overview of the application. Users can access medici
 
 ---
 
-## Author##
+## Author ##
 
 Rohan Chandekar
 - GitHub: [rohanchandekar09](https://github.com/rohanchandekar09)  
 - Email: [rohanchandekar09@gmail.com](mailto:rohanchandekar09@gmail.com)  
+
