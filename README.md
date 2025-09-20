@@ -40,6 +40,7 @@ The best part is that MediCheck also works without internet, so you can use it a
 
 ## Screenshots  
 ### Home Screen  
+  <img src="Screenshot.png">
 *(Insert the screenshot here once added to your GitHub repository)*  
 
 The home screen provides an overview of the application. Users can access medicine tracking, reminders, stock levels, and emergency information directly from the main dashboard.  
